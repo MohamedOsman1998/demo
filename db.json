@@ -12,9 +12,9 @@
     "name": "typicode"
   },
   "objects": [
-    {"id": 123, "flowRate": "400 cu ft/min", "temperature": 10 },
-    {"id": 124, "flowRate": "410 cu ft/min", "temperature": 11 },
-    {"id": 125, "flowRate": "213 cu ft/min", "temperature": 17 },
-  ],
+    {"id": "123", "flowRate": "400 cu ft/min", "temperature": "10 degrees" },
+    {"id": "124", "flowRate": "410 cu ft/min", "temperature": "11 degrees" },
+    {"id": "125", "flowRate": "213 cu ft/min", "temperature": "17 degrees" },
+  ]
   
 }
